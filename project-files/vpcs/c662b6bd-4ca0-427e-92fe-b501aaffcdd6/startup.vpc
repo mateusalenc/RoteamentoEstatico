@@ -1,0 +1,2 @@
+set pcname PC-1
+ip db8:2001:1::100/64
